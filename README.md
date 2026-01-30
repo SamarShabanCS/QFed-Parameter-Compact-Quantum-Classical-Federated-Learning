@@ -1,1 +1,1 @@
-# QFed-Parameter-Compact-Quantum-Classical-Federated-Learning
+# QFed: Parameter-Compact Quantum-Classical Federated Learning
