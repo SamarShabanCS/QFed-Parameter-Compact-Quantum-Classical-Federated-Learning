@@ -1,4 +1,5 @@
 # QFed: Parameter-Compact Quantum-Classical Federated Learning
+## The paper Link: [QFed: Parameter-Compact Quantum-Classical Federated Learning](https://arxiv.org/abs/2601.09809).
 ## 🧩 System Model
 
 The following figure illustrates the **proposed system**.
