@@ -2,6 +2,7 @@
 ## The paper Link: [Arxiv](https://arxiv.org/abs/2601.09809).
 ## 🧩 System Model
 
+<h2> 🙌 Abstract </h2>
 The following figure illustrates the **proposed system**.
 
 ![Proposed QFed System Model](figures/proposed-qt-fl-sys.png)
